@@ -1,0 +1,1 @@
+# smart_restaurants_miniproject
